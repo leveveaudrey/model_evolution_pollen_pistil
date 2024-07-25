@@ -1,0 +1,22 @@
+# 1) population size N 
+1000
+# 2) number of generations 
+1000
+# 3) number of replications 
+100
+# 4) mutation rate (1/x) 
+10000
+# 5) SELFING RATE 
+0
+# 6) ratio pollen/ovule 
+5
+# 7) cost style/ovul 
+0
+# 8) donnor number
+5
+# 9) correlation style size vs male selection 
+0.3
+# 10) correlation style size vs survie 
+0
+# 11) correlation speed pollen tube growth vs survie 
+0.1
